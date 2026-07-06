@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **sonakshiar04@gmail.com** For Collaboration/Project or Any
 - 😄 **Pronouns:** Sonakshi
 - ⚡ **Fun fact:** I Love Tech and Tech Loves Me
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sonakshi_.arora) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sonakshi arora) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sonakshiar04) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sonakshi Arora) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sonakshiar04@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sonakshi_.arora) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sonakshi-arora-05a010416/) 
 <!-- Snake Game Repo View -->
 
 <div align="center">
